@@ -14,16 +14,17 @@
     Hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-</div>
-
-
-
+    
 ---
 
 
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OwaisAD&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
 
 <!--
 **OwaisAD/OwaisAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
