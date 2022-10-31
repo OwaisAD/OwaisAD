@@ -1,5 +1,5 @@
 # 🏄🏽‍♂️ Owais Dashti
-<div id="header" align="center">
+<!--<div id="header" align="center">
     <div></div>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
     <div id="badges">
@@ -14,9 +14,9 @@
     </div>
 </div>
   
-#
+#-->
   
-### 🧰 Languages and Tools
+<!--### 🧰 Languages and Tools-->
 <div align="center">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -35,14 +35,13 @@
 
 #
 
-### 📊 Stats
+<!--### 📊 Stats-->
 ![Owais' GitHub stats](https://github-readme-stats.vercel.app/api?username=OwaisAD&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAD&layout=compact)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
-#
 
+<!--#
 <details>
  <summary><h3>👨🏽‍💻 Owais's Coding Journey</h3></summary>
    TODO
 
-[website]: https://owais.dk
-[youtube]: https://youtube.com/3000owais
+-->
