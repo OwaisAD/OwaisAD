@@ -1,4 +1,4 @@
-# 🏄🏽‍♂️ Owais Dashti
+# 🏄🏽‍♂️ Owais Dashti 👨🏽‍💻
 <!--<div id="header" align="center">
     <div></div>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
