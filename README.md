@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Owais 🏄🏽‍♂️👨🏽‍💻
+## Hi there 👋, I'm Owais 🏄🏽‍♂️👨🏽‍💻
 
 - 💼 Feel free to check out my portfolio website!
 - 🏢 Software Engineer
