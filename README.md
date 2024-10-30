@@ -11,10 +11,11 @@
 
 <!--## Hi there 👋, I'm Owais 🏄🏽‍♂️👨🏽‍💻-->
 
-<!--- 💼 Feel free to check out my portfolio website!-->
+<!--- 💼 Feel free to check out my portfolio website!
 - 🏢 Software Engineer
-- 📫 You can reach out to me on: <a href = "mailto:owaisdashti@outlook.com?subject = Feedback&body = Message">owaisdashti@outlook.com</a>
+- 📫 You can reach out to me on: <a href = "mailto:owaisdashti@outlook.com?subject = Feedback&body = Message">owaisdashti@outlook.com</a>-->
 
 <div>
- <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+ <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=aura" />
 </div>
+
