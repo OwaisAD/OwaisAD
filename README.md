@@ -5,7 +5,6 @@
 
 
 
-[![Website](https://img.shields.io/badge/Website-owais.dk-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://owais.dk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Owais-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais1/)
 [![Mail](https://img.shields.io/badge/Mail-owaisdashti@outlook.com-informational?style=flat-square&color=EA4335&logo=outlook&logoColor=white)](mailto:owaisdashti@outlook.com?subject=Hello&nbsp;Owais!)
 
